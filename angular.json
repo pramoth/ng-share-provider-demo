@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "providerRoot"
+  "defaultProject": "providerRoot",
+  "cli": {
+    "analytics": false
+  }
 }
